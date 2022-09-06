@@ -1,0 +1,108 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+header {
+    background-color: #1f2937;
+}
+
+
+.main-heading {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;;
+}
+
+.logo {
+    color: #f9faf8;
+    font: size 24px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-radius: 8px;
+}
+
+a {
+    color: #f9faf8;
+    text-decoration: none;
+    margin-left: 16px;
+}
+
+.first-line {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.image-heading {
+    display: flex;
+    justify-content: space-evenly;
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
